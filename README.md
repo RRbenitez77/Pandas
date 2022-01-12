@@ -1,4 +1,4 @@
-# Pandas Homework - Pandas, Pandas, Pandas
+# Pandas
 
 ## Background
 
@@ -6,13 +6,7 @@ The data dive continues!
 
 Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete **one of two** (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
 
-### Before You Begin
 
-1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the Pandas Challenge you choose. Use folder names corresponding to the challenges: **HeroesOfPymoli** or  **PyCitySchools**.
 
 4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
 
@@ -26,9 +20,10 @@ Congratulations! After a lot of hard work in the data munging mines, you've land
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-Your final report should include each of the following:
+
 
 ### Player Count
+![Screen Shot 2022-01-01 at 11 04 10 PM](https://user-images.githubusercontent.com/33403205/149123378-94a933ca-379d-4bf5-bfc9-194d6d634ca7.png)
 
 * Total Number of Players
 
@@ -52,6 +47,7 @@ Your final report should include each of the following:
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
+![Screen Shot 2022-01-01 at 11 03 38 PM](https://user-images.githubusercontent.com/33403205/149123425-83f64d95-0c34-4ffc-b976-31532d2abed5.png)
 
 ### Age Demographics
 
@@ -77,6 +73,7 @@ Your final report should include each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+![Screen Shot 2022-01-01 at 11 10 54 PM](https://user-images.githubusercontent.com/33403205/149123289-57c5ab33-2a56-46b4-84ee-deff9287f2c2.png)
 
 ### Most Profitable Items
 
