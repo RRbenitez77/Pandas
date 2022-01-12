@@ -79,7 +79,6 @@ Used Jupyter Notebook as main script to run for analysis within Python Pandas to
   * Item Price
   * Total Purchase Value
 
-As final considerations:
 
 
 
