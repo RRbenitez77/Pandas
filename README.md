@@ -19,7 +19,6 @@ The Resources folder contains the data set
 The source code is in the file  "Resources/purchase_data.csv"
 
 Let the data dive continue!
-The objective of this project is to analyze the data for a hypothetical  game called "Heroes of Pymoli".
 
 Like so many games today that have additional purchasing within free-to-play games.The first task is to generate a report that breaks down the game's purchasing data into meaningful insights.
 
